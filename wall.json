@@ -1,6 +1,18 @@
 [
   {
-    "name": "NotDot",
-    "url": "https://raw.githubusercontent.com/theovilardo/nthk/main/1replace.png"
+    "name": "Blue",
+    "url": "https://raw.githubusercontent.com/hostingbrad/polymer/main/1.png"
+  },
+  {
+    "name": "Red",
+    "url": "https://raw.githubusercontent.com/hostingbrad/polymer/main/2.png"
+  },
+  {
+    "name": "Orange",
+    "url": "https://raw.githubusercontent.com/hostingbrad/polymer/main/3.png"
+  },
+  {
+    "name": "Green",
+    "url": "https://raw.githubusercontent.com/hostingbrad/polymer/main/4.png"
   }
 ]
